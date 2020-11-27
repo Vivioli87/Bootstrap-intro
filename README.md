@@ -1,0 +1,1 @@
+<span>Photo by <a href="https://unsplash.com/@viniciusamano?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Vinicius "amnx" Amano</a> on <a href="https://unsplash.com/s/photos/whiskey-glass?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
